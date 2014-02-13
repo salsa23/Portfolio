@@ -1,4 +1,10 @@
-Portfolio
+Chelsa Hiatt's Portfolio
 =========
 
-Holds work that I've done to show off knowledge.
+This repository holds projects that display knowledge and skills I have acquired.
+
+
+
+
+
+Created: Feb 2014
